@@ -6,5 +6,5 @@ Alunos responsáveis:
 Ranna Beatriz de Lima Lisboa
 
 ## Instruções para rodar o código
-clone o repositório, abra-o em sua IDE de preferência (usamos o VSCode), na pasta raiz utilize o seguinte comando:
-'mvn spring-boot:run'.
+clone o repositório, abra-o em sua IDE de preferência (usamos o VSCode), inicialize primeiro o servidor "ChatBotApplication.java" e depois o Client "ChatBotClient.java" e comece a interagir com o ChatBot em inglês.
+É necessário ter o Maven instalado e a vesão 17 do java.
